@@ -1,2 +1,2 @@
-# simple-neural-network
-Single layer feedforward network in Python.
+# minst-tensorflow
+Simple neural network with tensorflow
